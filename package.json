@@ -1,0 +1,10 @@
+{
+  "name": "@orbito/static",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Static file host for Orbi.to",
+  "scripts": {
+    "test": "echo $(pwd)"
+  },
+  "author": "Sittipong Haus"
+}
